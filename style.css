@@ -1,0 +1,17 @@
+#parte1,#parte2 {
+     border: 1px solid black;
+     width:400px;
+     float:left;
+     margin:10px;
+}
+
+#parte3 {
+    border: 1px solid black;
+    width: 400px;
+    float:right;
+}
+
+h1,h2 {
+    text-align:center;
+}
+
